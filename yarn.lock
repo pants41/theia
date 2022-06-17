@@ -4998,9 +4998,9 @@ electron-window@^0.8.0:
     is-electron-renderer "^2.0.0"
 
 electron@^15.3.5:
-  version "15.4.2"
-  resolved "https://registry.yarnpkg.com/electron/-/electron-15.4.2.tgz#16bef2c1ed2f5f637218b0e906c20c93a484c4bb"
-  integrity sha512-g5JOsr4RkvLNbk3vcyFZMcc7vlM1A6+wYJCIk9QF5jjkIHktVA0I1PnMZ15MQ9HJsrzvXC8iREekjR1bEw6UAA==
+  version "15.5.5"
+  resolved "https://registry.yarnpkg.com/electron/-/electron-15.5.5.tgz#796b7822bfb2b045b504e40657674f2869361681"
+  integrity sha512-cGS1ueek14WLvLJlJbId3fmqJLvkr7VuBI0hHt6gpKaj8m2iv/NMteRg0deLgwlxjEF6ZGGNerUJW6a96rNq/Q==
   dependencies:
     "@electron/get" "^1.13.0"
     "@types/node" "^14.6.2"
