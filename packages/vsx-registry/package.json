@@ -13,7 +13,7 @@
     "@types/showdown": "^1.7.1",
     "p-debounce": "^2.1.0",
     "requestretry": "^7.0.0",
-    "semver": "^5.4.1",
+    "semver": "^7.5.2",
     "showdown": "^1.9.1",
     "uuid": "^8.0.0"
   },

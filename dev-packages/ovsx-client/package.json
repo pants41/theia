@@ -31,6 +31,6 @@
   "dependencies": {
     "@types/bent": "^7.0.1",
     "bent": "^7.1.0",
-    "semver": "^5.4.1"
+    "semver": "^7.5.2"
   }
 }
